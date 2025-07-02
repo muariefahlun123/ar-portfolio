@@ -2640,3 +2640,22 @@ p {
 	background-color: var(--primary);
 	color: var(--white);
 }
+
+.clock-widget {
+	margin-left: 60px;
+	margin-top: 1px;
+}
+
+.digital-clock {
+	font-size: 40px;
+	font-weight: 600;
+	color: var(--black);
+	letter-spacing: 3px;
+}
+
+#ampm {
+	font-size: 12px;
+	vertical-align: super;
+	margin-left: 3px;
+	color: var(--primary);
+}
